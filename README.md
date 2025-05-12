@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+To run this project in Gitpod:
+Prefix this GitHub repository URL with gitpod.io/#/.
+For example, if the repo URL is https://github.com/user/project,
+you'd go to https://gitpod.io/#/https://github.com/user/project.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
